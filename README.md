@@ -1,6 +1,6 @@
 Continuous Integration Demo
 ============================
-[![Unittest WorkFlow](https://github.com/sivazzer/demo-pyci/actions/workflows/test_statistics.yml/badge.svg)]
+![Unittest WorkFlow](https://github.com/sivazzer/demo-pyci/actions/workflows/test_statistics.yml/badge.svg)
 
 This project demonstrates use of Github Actions to build and test a Python project.  
 Create a repository on Github, then use Github Actions to build and test it.
